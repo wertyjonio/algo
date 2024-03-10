@@ -1,3 +1,3 @@
 # algo 
 
-this is test repositar
+this is test repositar for algo
